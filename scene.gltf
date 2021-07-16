@@ -387,15 +387,15 @@
   "buffers": [
     {
       "byteLength": 1027332,
-      "uri": "scene.bin"
+      "uri": "https://rawcdn.githack.com/zpvisla/drupal/70e2bcd78763e4ca81459d3e2b4dec9785679796/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Material_50_baseColor.png"
+      "uri": "https://rawcdn.githack.com/zpvisla/drupal/70e2bcd78763e4ca81459d3e2b4dec9785679796/textures/Material_50_baseColor.png"
     },
     {
-      "uri": "textures/Material_51_baseColor.png"
+      "uri": "https://rawcdn.githack.com/zpvisla/drupal/70e2bcd78763e4ca81459d3e2b4dec9785679796/Material_51_baseColor.png"
     }
   ],
   "materials": [
